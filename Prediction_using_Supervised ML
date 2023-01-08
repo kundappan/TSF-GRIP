@@ -1,0 +1,13 @@
+Problem Statement
+
+Predict the percentage of a student based on the number of study hours. What will be the 
+predict score if a student studies for 9.25 hrs/day?
+
+
+
+solution
+
+simple Linear Regression is performed with the train-test-split technique for machine learning 
+implementation.The visualization part of the Data to use Scatter plot to identify the ralationship 
+between two variables and also after preprocessing regression line is plotted.At end of the model 
+error is calculeted then the model is give r^2 is better.
